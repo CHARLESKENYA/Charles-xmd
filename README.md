@@ -17,7 +17,7 @@ A powerful multi-functional WhatsApp bot built using Baileys library.
 
  HOSTING
 <p align="center">
-  <a href="https://charleskexmd-verification-code.vercel.app/">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/CHARLESKENYA/Charles-xmd">
     <img src="https://img.shields.io/badge/DEPLOY NOW-blue?style=for-the-badge&logo=heroku&logoColor=white" width="220" height="38.45" />
   </a> 
 
